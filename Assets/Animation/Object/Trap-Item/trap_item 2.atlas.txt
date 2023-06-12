@@ -1,0 +1,411 @@
+trap_item 2.png
+size:1828,1036
+filter:Linear,Linear
+pma:true
+Ball
+bounds:1776,139,50,50
+offsets:1,2,52,53
+Door 1
+bounds:1755,615,65,98
+offsets:1,1,67,100
+Key off
+bounds:1770,517,39,55
+offsets:1,1,41,57
+rotate:90
+Key on
+bounds:1741,34,39,55
+offsets:1,1,41,57
+Layer 221
+bounds:439,431,65,37
+offsets:1,1,67,39
+Layer 222
+bounds:1186,255,35,31
+Leg
+bounds:1782,44,39,54
+offsets:33,0,72,56
+boom
+bounds:1648,505,96,120
+offsets:1,1,98,122
+rotate:90
+bubble/1_00002
+bounds:439,406,19,23
+offsets:76,19,180,180
+bubble/1_00003
+bounds:1776,100,37,50
+offsets:68,21,180,180
+rotate:90
+bubble/1_00004
+bounds:1599,37,69,81
+offsets:52,27,180,180
+rotate:90
+bubble/1_00005
+bounds:400,2,100,107
+offsets:37,33,180,180
+bubble/1_00006
+bounds:1627,292,103,109
+offsets:37,34,180,180
+rotate:90
+bubble/1_00007
+bounds:1513,290,104,112
+offsets:37,35,180,180
+rotate:90
+bubble/1_00008
+bounds:1627,397,106,112
+offsets:36,37,180,180
+rotate:90
+bubble/1_00009
+bounds:708,365,110,114
+offsets:33,37,180,180
+rotate:90
+bubble/1_00010
+bounds:1513,396,112,113
+offsets:32,38,180,180
+bubble/1_00011
+bounds:708,251,114,112
+offsets:31,39,180,180
+bubble/1_00012
+bounds:1392,453,114,113
+offsets:31,39,180,180
+bubble/1_00013
+bounds:506,362,115,113
+offsets:31,39,180,180
+bubble/1_00014
+bounds:1525,603,112,114
+offsets:33,39,180,180
+bubble/1_00015
+bounds:1639,603,110,114
+offsets:35,40,180,180
+rotate:90
+bubble/1_00016
+bounds:1402,336,109,115
+offsets:36,40,180,180
+bubble/1_00017
+bounds:185,2,107,106
+offsets:37,50,180,180
+rotate:90
+bubble/1_00018
+bounds:293,2,105,107
+offsets:39,50,180,180
+bubble/1_00019
+bounds:502,2,104,108
+offsets:40,50,180,180
+bubble/1_00020
+bounds:708,2,102,92
+offsets:42,66,180,180
+bubble/1_00021
+bounds:1496,95,101,93
+offsets:43,66,180,180
+bubble/1_00022
+bounds:812,2,98,92
+offsets:43,67,180,180
+bubble/1_00023
+bounds:1602,190,98,92
+offsets:43,67,180,180
+rotate:90
+door 2
+bounds:2,629,68,405
+exp mine/1_00000
+bounds:983,405,143,143
+offsets:30,22,200,200
+exp mine/1_00001
+bounds:185,111,159,158
+offsets:19,16,200,200
+exp mine/1_00002
+bounds:868,850,185,184
+offsets:6,6,200,200
+exp mine/1_00003
+bounds:678,840,188,194
+offsets:5,0,200,200
+exp mine/1_00004
+bounds:72,834,200,200
+exp mine/1_00005
+bounds:72,632,200,200
+exp mine/1_00006
+bounds:274,834,200,200
+exp mine/1_00007
+bounds:274,632,200,200
+exp mine/1_00008
+bounds:476,834,200,200
+exp mine/1_00009
+bounds:476,635,196,197
+offsets:0,1,200,200
+exp mine/1_00010
+bounds:185,271,179,178
+offsets:11,11,200,200
+exp mine/1_00011
+bounds:185,451,180,179
+offsets:10,10,200,200
+exp mine/1_00012
+bounds:2,77,181,180
+offsets:10,10,200,200
+exp mine/1_00013
+bounds:2,444,183,181
+offsets:9,9,200,200
+rotate:90
+exp mine/1_00014
+bounds:2,259,183,181
+offsets:9,9,200,200
+rotate:90
+exp mine/1_00015
+bounds:1242,852,183,182
+offsets:9,9,200,200
+exp mine/1_00016
+bounds:1427,852,183,182
+offsets:9,9,200,200
+exp mine/1_00017
+bounds:1612,853,184,181
+offsets:8,11,200,200
+exp mine/1_00018
+bounds:1055,852,185,182
+offsets:8,10,200,200
+exp mine/1_00019
+bounds:1055,852,185,182
+offsets:8,10,200,200
+exp poder/1_00000
+bounds:111,9,66,67
+offsets:66,62,200,200
+rotate:90
+exp poder/1_00001
+bounds:608,2,98,108
+offsets:51,38,200,200
+exp poder/1_00002
+bounds:1567,719,127,131
+offsets:36,29,200,200
+exp poder/1_00003
+bounds:674,685,147,148
+offsets:26,23,200,200
+rotate:90
+exp poder/1_00004
+bounds:506,477,157,156
+offsets:21,19,200,200
+exp poder/1_00005
+bounds:665,477,157,156
+offsets:21,19,200,200
+exp poder/1_00006
+bounds:824,553,157,156
+offsets:21,19,200,200
+exp poder/1_00007
+bounds:824,256,155,155
+offsets:22,19,200,200
+exp poder/1_00008
+bounds:981,248,155,155
+offsets:22,19,200,200
+exp poder/1_00009
+bounds:756,96,155,153
+offsets:21,20,200,200
+exp poder/1_00010
+bounds:913,93,154,153
+offsets:22,20,200,200
+exp poder/1_00011
+bounds:1069,93,153,152
+offsets:22,20,200,200
+rotate:90
+exp poder/1_00012
+bounds:1120,697,152,153
+offsets:22,20,200,200
+exp poder/1_00013
+bounds:1274,704,146,154
+offsets:26,19,200,200
+rotate:90
+exp poder/1_00014
+bounds:824,413,138,157
+offsets:31,18,200,200
+rotate:90
+exp poder/1_00015
+bounds:485,112,136,157
+offsets:33,18,200,200
+exp poder/1_00016
+bounds:346,111,137,158
+offsets:33,18,200,200
+exp poder/1_00017
+bounds:367,470,137,160
+offsets:33,17,200,200
+exp poder/1_00018
+bounds:868,711,137,160
+offsets:33,17,200,200
+rotate:90
+exp poder/1_00019
+bounds:983,550,135,159
+offsets:35,17,200,200
+exp poder/1_00020
+bounds:983,550,135,159
+offsets:35,17,200,200
+exp poder/1_00021
+bounds:1496,190,104,98
+offsets:61,73,200,200
+fire bomb/1_00000
+bounds:1599,108,80,97
+offsets:8,0,100,100
+rotate:90
+fire bomb/1_00002
+bounds:1495,13,80,99
+offsets:9,0,100,100
+rotate:90
+fire bomb/1_00004
+bounds:912,9,82,100
+offsets:8,0,100,100
+rotate:90
+fire bomb/1_00006
+bounds:623,375,83,100
+offsets:7,0,100,100
+fire bomb/1_00008
+bounds:1014,11,80,100
+offsets:7,0,100,100
+rotate:90
+fire bomb/1_00010
+bounds:1116,11,80,100
+offsets:6,0,100,100
+rotate:90
+fire bomb/1_00012
+bounds:502,280,80,100
+offsets:7,0,100,100
+rotate:90
+fire bomb/1_00014
+bounds:1698,91,76,98
+offsets:9,0,100,100
+fire bomb/1_00016
+bounds:1741,404,75,99
+offsets:10,0,100,100
+fire bomb/1_00018
+bounds:630,275,76,98
+offsets:11,0,100,100
+fire bomb/1_00020
+bounds:1030,749,78,99
+offsets:8,0,100,100
+fire bomb/1_00022
+bounds:1696,191,79,99
+offsets:8,0,100,100
+fire/1_00000
+bounds:1257,564,133,131
+offsets:9,8,150,150
+fire/1_00002
+bounds:366,271,134,132
+offsets:8,7,150,150
+fire/1_00004
+bounds:623,112,134,131
+offsets:8,8,150,150
+rotate:90
+fire/1_00006
+bounds:1120,564,135,131
+offsets:8,8,150,150
+fire/1_00008
+bounds:1430,719,135,131
+offsets:8,8,150,150
+fire/1_00010
+bounds:1223,24,134,130
+offsets:9,8,150,150
+fire/1_00012
+bounds:1223,156,135,130
+offsets:9,8,150,150
+fire/1_00014
+bounds:1128,426,136,130
+offsets:8,8,150,150
+rotate:90
+fire/1_00016
+bounds:1138,288,136,130
+offsets:8,8,150,150
+rotate:90
+fire/1_00018
+bounds:1696,715,136,130
+offsets:8,8,150,150
+rotate:90
+fire/1_00020
+bounds:1260,426,136,130
+offsets:8,8,150,150
+rotate:90
+fire/1_00022
+bounds:1270,288,136,130
+offsets:8,8,150,150
+rotate:90
+fire/1_00024
+bounds:1360,156,134,130
+offsets:9,8,150,150
+fire/1_00026
+bounds:1359,24,134,130
+offsets:9,8,150,150
+fire/1_00028
+bounds:1392,568,134,131
+offsets:9,8,150,150
+rotate:90
+key light
+bounds:1682,2,36,44
+offsets:2,3,41,49
+poder barrel
+bounds:674,644,39,134
+offsets:1,1,41,136
+rotate:90
+poder barrel 1
+bounds:2,9,66,107
+offsets:1,1,68,111
+rotate:90
+poder barrel 10
+bounds:1138,248,38,46
+offsets:1,1,40,48
+rotate:90
+poder barrel 11
+bounds:1596,12,23,79
+offsets:1,1,25,81
+rotate:90
+poder barrel 12
+bounds:1798,869,28,62
+offsets:1,1,30,64
+poder barrel 2
+bounds:367,452,16,30
+offsets:2,1,19,33
+rotate:90
+poder barrel 3
+bounds:604,271,24,89
+offsets:1,1,26,92
+poder barrel 4
+bounds:1030,711,36,84
+offsets:1,1,38,86
+rotate:90
+poder barrel 5
+bounds:1720,4,28,59
+offsets:1,1,30,61
+rotate:90
+poder barrel 6
+bounds:1798,933,28,101
+offsets:1,1,30,103
+poder barrel 7
+bounds:824,792,42,46
+offsets:1,1,44,48
+poder barrel 8
+bounds:824,711,27,79
+offsets:1,1,29,81
+poder barrel 9
+bounds:1128,406,8,18
+offsets:1,1,10,20
+water mine
+bounds:1525,511,90,121
+offsets:1,1,92,123
+rotate:90
+water mine 1
+bounds:1682,48,57,41
+offsets:1,1,60,43
+water mine 2
+bounds:1402,288,46,60
+offsets:1,2,49,63
+rotate:90
+water mine 3
+bounds:1464,290,44,41
+offsets:1,1,46,43
+rotate:90
+water mine 4
+bounds:1770,558,51,55
+offsets:1,1,54,58
+water mine 5
+bounds:1741,362,40,46
+offsets:1,1,42,48
+rotate:90
+water mine 6
+bounds:1782,2,40,35
+offsets:1,1,42,37
+rotate:90
+water mine 7
+bounds:366,405,44,71
+offsets:1,1,46,73
+rotate:90
+water mine 8
+bounds:1738,319,35,41
+offsets:1,1,37,43

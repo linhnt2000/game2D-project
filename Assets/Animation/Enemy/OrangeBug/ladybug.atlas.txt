@@ -1,0 +1,53 @@
+ladybug.png
+size:108,384
+filter:Linear,Linear
+pma:true
+body
+bounds:2,224,156,102
+offsets:1,1,158,104
+rotate:90
+eye_L
+bounds:59,103,41,43
+offsets:1,1,43,45
+rotate:90
+eye_R
+bounds:92,189,14,33
+offsets:1,1,16,35
+head
+bounds:2,146,88,76
+offsets:1,1,90,78
+leg_L
+bounds:2,28,31,27
+offsets:1,1,33,29
+leg_L_bot
+bounds:76,31,30,27
+offsets:1,1,32,29
+leg_R
+bounds:36,66,19,22
+offsets:1,1,21,24
+leg_R_bot
+bounds:35,5,25,25
+offsets:1,1,27,27
+light 1
+bounds:2,90,55,54
+offsets:3,5,63,65
+light 2
+bounds:2,2,25,24
+offsets:3,2,30,27
+light 3
+bounds:59,60,41,41
+offsets:5,4,50,50
+light 4
+bounds:36,32,38,26
+offsets:3,2,44,30
+light 5
+bounds:62,5,24,25
+offsets:3,2,29,29
+rotate:90
+pupil_L
+bounds:2,57,31,32
+offsets:1,1,33,34
+rotate:90
+pupil_R
+bounds:92,165,11,22
+offsets:1,1,13,24

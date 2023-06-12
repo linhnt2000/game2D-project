@@ -1,0 +1,184 @@
+trap_item.png
+size:1004,240
+filter:Linear,Linear
+pma:true
+Fireball_2
+bounds:975,154,26,27
+offsets:1,1,28,29
+rotate:90
+Flag_4
+bounds:243,20,106,65
+Heart
+bounds:752,97,56,51
+offsets:1,1,58,53
+rotate:90
+Heart. small
+bounds:405,13,18,16
+offsets:1,1,20,18
+Magret
+bounds:752,39,51,56
+offsets:1,1,53,58
+Shield
+bounds:571,2,52,56
+offsets:1,1,54,58
+rotate:90
+Springs_1
+bounds:858,10,56,18
+offsets:1,1,58,20
+Springs_2
+bounds:800,11,56,22
+offsets:1,1,58,24
+Springs_3
+bounds:970,28,31,20
+Springs_3.png copy
+bounds:970,28,31,20
+Springs_4
+bounds:111,3,32,8
+offsets:1,1,34,10
+Springs_4.png copy 2
+bounds:789,168,34,10
+rotate:90
+Springs_4.png copy
+bounds:789,168,34,10
+rotate:90
+Star
+bounds:688,4,56,56
+offsets:1,1,58,58
+Treasure body
+bounds:678,155,86,43
+offsets:1,1,88,45
+block light
+bounds:970,50,27,24
+offsets:1,1,29,26
+block light 1
+bounds:920,85,48,42
+offsets:1,1,50,44
+block light 2
+bounds:805,146,56,56
+offsets:1,1,58,58
+block light 3
+bounds:863,130,56,54
+offsets:1,1,58,56
+block light 4
+bounds:532,8,34,37
+offsets:1,1,36,39
+rotate:90
+bubble
+bounds:425,100,137,138
+offsets:2,7,140,146
+bubble small
+bounds:564,126,112,112
+offsets:1,1,114,114
+close
+bounds:775,204,86,34
+light beam
+bounds:2,13,225,239
+offsets:8,5,245,245
+rotate:90
+light magnet
+bounds:2,3,107,8
+offsets:2,5,115,16
+light open
+bounds:243,87,180,151
+offsets:0,1,192,165
+light round
+bounds:956,5,22,21
+offsets:1,1,24,23
+lighting/1_00000
+bounds:425,44,54,71
+offsets:23,15,100,100
+rotate:90
+lighting/1_00001
+bounds:498,44,54,71
+offsets:23,15,100,100
+rotate:90
+lighting/1_00002
+bounds:351,31,54,72
+offsets:24,15,100,100
+rotate:90
+lighting/1_00003
+bounds:863,77,55,51
+offsets:25,16,100,100
+lighting/1_00004
+bounds:938,182,58,56
+offsets:24,16,100,100
+lighting/1_00005
+bounds:629,2,57,58
+offsets:25,20,100,100
+lighting/1_00006
+bounds:629,2,57,58
+offsets:25,20,100,100
+lighting/1_00007
+bounds:805,35,56,51
+offsets:25,26,100,100
+lighting/1_00008
+bounds:623,71,53,53
+offsets:26,30,100,100
+lighting/1_00009
+bounds:571,56,50,68
+offsets:29,15,100,100
+lighting/1_00010
+bounds:863,186,52,73
+offsets:26,12,100,100
+rotate:90
+lighting/1_00011
+bounds:863,186,52,73
+offsets:26,12,100,100
+rotate:90
+lighting/1_00012
+bounds:678,105,48,72
+offsets:27,13,100,100
+rotate:90
+lighting/1_00013
+bounds:678,62,41,72
+offsets:31,14,100,100
+rotate:90
+misterious block
+bounds:805,88,56,56
+offsets:1,1,58,58
+open
+bounds:678,200,95,38
+offsets:1,1,97,40
+shield light
+bounds:980,13,19,13
+offsets:1,1,21,15
+shield light 1
+bounds:766,160,38,21
+offsets:1,1,40,23
+rotate:90
+shield light 2
+bounds:351,6,52,23
+offsets:1,2,54,27
+shield light 3
+bounds:746,7,52,30
+offsets:1,8,54,42
+shield light 4
+bounds:970,76,48,28
+offsets:1,8,50,37
+rotate:90
+shield light 5
+bounds:863,30,45,56
+offsets:1,1,51,58
+rotate:90
+star light
+bounds:916,2,38,25
+offsets:1,1,40,27
+star light 1
+bounds:921,46,47,37
+offsets:1,1,49,39
+star light 2
+bounds:474,9,56,33
+offsets:1,1,58,35
+star light 3
+bounds:425,2,47,40
+offsets:1,1,49,42
+star light 4
+bounds:921,29,39,15
+offsets:1,1,41,18
+yellow 5 star
+bounds:975,126,27,26
+offsets:1,1,29,28
+yellow star
+bounds:921,129,51,52
+offsets:4,4,59,59
+rotate:90

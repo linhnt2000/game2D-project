@@ -1,0 +1,106 @@
+monster_mario.png
+size:1844,1048
+filter:Linear,Linear
+pma:true
+Mummy
+bounds:1202,88,126,152
+offsets:24,0,150,185
+eagle
+bounds:558,3,460,178
+rotate:90
+eagle tail
+bounds:1532,244,174,105
+offsets:2,1,177,107
+eagle wing behind
+bounds:1534,351,231,373
+offsets:0,1,232,374
+eagle wing front
+bounds:738,35,326,428
+egg
+bounds:1534,726,263,321
+offsets:1,1,265,323
+egg piece 1
+bounds:1133,242,223,202
+offsets:1,1,225,204
+rotate:90
+egg piece 2
+bounds:1392,85,140,169
+offsets:1,1,142,171
+rotate:90
+egg piece 3
+bounds:1393,227,137,168
+offsets:1,1,139,170
+egg piece 4
+bounds:1393,397,139,129
+offsets:1,1,142,131
+egg piece 5
+bounds:1563,101,135,135
+offsets:1,1,137,138
+mummy hand L
+bounds:1666,10,89,173
+rotate:90
+mummy hand R
+bounds:1767,564,77,160
+offsets:0,1,77,161
+mummy head
+bounds:1024,528,519,508
+offsets:1,1,521,510
+rotate:90
+mummy_leg 1
+bounds:1322,2,80,74
+mummy_leg 2
+bounds:1767,489,77,73
+mumuy_eye die
+bounds:1024,467,221,59
+offsets:1,1,223,61
+scorp
+bounds:558,465,582,464
+rotate:90
+scorp_claw 1
+bounds:1066,5,231,134
+offsets:1,1,233,136
+rotate:90
+scorp_claw 2
+bounds:1066,240,109,65
+offsets:1,1,111,67
+rotate:90
+scorp_claw behind
+bounds:1404,0,167,83
+offsets:1,1,169,85
+scorp_leg 1
+bounds:1767,361,76,126
+offsets:1,1,78,129
+scorp_leg 2
+bounds:1202,2,74,118
+offsets:1,1,76,120
+rotate:90
+scorp_leg 3
+bounds:1767,238,76,121
+offsets:1,2,78,124
+scorp_leg 4
+bounds:1573,2,97,91
+offsets:1,1,99,93
+rotate:90
+scorp_leg front 1
+bounds:1337,78,53,196
+offsets:1,1,55,198
+scorp_leg front 2
+bounds:738,0,33,187
+offsets:1,1,35,189
+rotate:90
+scorp_leg front 3
+bounds:1337,276,54,189
+offsets:1,1,56,191
+scorp_leg front 4
+bounds:1708,185,46,164
+offsets:1,1,49,166
+shoulder protect
+bounds:1247,467,144,59
+offsets:1,1,146,61
+snake
+bounds:0,21,1026,556
+rotate:90
+snake tongue
+bounds:1799,947,100,41
+offsets:0,1,118,45
+rotate:90

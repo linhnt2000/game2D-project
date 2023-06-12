@@ -1,0 +1,205 @@
+boss golem.png
+size:2032,652
+filter:Linear,Linear
+pma:true
+Arm_L_bot
+bounds:1652,408,188,242
+offsets:1,1,190,244
+Arm_L_top
+bounds:1415,408,235,242
+offsets:1,1,239,244
+Arm_R_bot
+bounds:1842,408,188,242
+offsets:1,1,190,244
+Arm_R_top
+bounds:1177,408,236,242
+offsets:2,1,239,244
+Body
+bounds:2,272,464,378
+Foot_L
+bounds:1268,40,134,77
+offsets:1,1,136,79
+rotate:90
+Foot_R
+bounds:1268,40,134,77
+offsets:1,1,136,79
+rotate:90
+Hand_L
+bounds:1128,7,139,138
+offsets:1,1,143,140
+rotate:90
+Hand_R
+bounds:1877,268,140,138
+offsets:2,1,143,140
+Hip
+bounds:2,97,325,173
+offsets:1,2,327,176
+Jaw
+bounds:539,182,217,129
+offsets:1,1,219,132
+Leg_L_lower
+bounds:758,237,117,74
+offsets:1,1,119,76
+Leg_R_lower
+bounds:758,237,117,74
+offsets:1,1,119,76
+Leg_L_upper
+bounds:1000,2,144,126
+offsets:1,2,146,129
+rotate:90
+Leg_R_upper
+bounds:1000,2,144,126
+offsets:1,2,146,129
+rotate:90
+Rock_1
+bounds:329,71,208,199
+offsets:3,3,212,203
+Rock_2
+bounds:1817,71,169,174
+offsets:2,1,172,176
+rotate:90
+angry
+bounds:1790,11,58,59
+offsets:5,7,69,66
+rotate:90
+angry red
+bounds:885,337,290,313
+offsets:3,25,417,339
+angry smoke/2_00000
+bounds:2,9,72,11
+offsets:112,32,300,100
+angry smoke/2_00001
+bounds:1993,116,124,32
+offsets:88,29,300,100
+rotate:90
+angry smoke/2_00002
+bounds:1607,45,181,44
+offsets:59,29,300,100
+angry smoke/2_00003
+bounds:1612,151,203,42
+offsets:48,30,300,100
+angry smoke/2_00004
+bounds:539,67,228,40
+offsets:35,30,300,100
+angry smoke/2_00005
+bounds:1411,295,238,36
+offsets:30,31,300,100
+angry smoke/2_00006
+bounds:1105,206,249,33
+offsets:25,30,300,100
+angry smoke/2_00007
+bounds:1103,176,251,28
+offsets:24,30,300,100
+angry smoke/2_00008
+bounds:1356,164,254,29
+offsets:22,30,300,100
+angry smoke/2_00009
+bounds:700,2,256,27
+offsets:21,30,300,100
+angry smoke/2_00010
+bounds:1339,266,258,27
+offsets:20,30,300,100
+angry smoke/2_00011
+bounds:990,148,258,26
+offsets:20,30,300,100
+angry smoke/2_00012
+bounds:1347,53,258,25
+offsets:20,30,300,100
+angry smoke/2_00013
+bounds:700,31,260,25
+offsets:19,30,300,100
+angry smoke/2_00014
+bounds:1347,138,260,24
+offsets:19,31,300,100
+angry smoke/2_00015
+bounds:885,311,261,24
+offsets:19,31,300,100
+angry smoke/2_00016
+bounds:1148,307,261,24
+offsets:19,31,300,100
+angry smoke/2_00017
+bounds:1580,263,1,1
+eyecover
+bounds:1877,242,130,24
+offsets:2,1,133,26
+head
+bounds:468,313,415,337
+offsets:1,1,417,339
+smoke/1_00000
+bounds:468,299,59,12
+offsets:115,56,300,150
+smoke/1_00001
+bounds:237,83,59,12
+offsets:115,56,300,150
+smoke/1_00002
+bounds:758,211,113,24
+offsets:89,53,300,150
+smoke/1_00003
+bounds:1347,3,151,48
+offsets:65,46,300,150
+smoke/1_00004
+bounds:1609,91,188,58
+offsets:50,44,300,150
+smoke/1_00005
+bounds:1580,195,217,66
+offsets:36,41,300,150
+smoke/1_00006
+bounds:1580,195,217,66
+offsets:36,41,300,150
+smoke/1_00007
+bounds:768,115,220,69
+offsets:35,40,300,150
+smoke/1_00008
+bounds:1356,195,222,69
+offsets:34,40,300,150
+smoke/1_00009
+bounds:1651,263,224,69
+offsets:33,40,300,150
+smoke/1_00010
+bounds:877,239,226,70
+offsets:32,39,300,150
+smoke/1_00011
+bounds:877,239,226,70
+offsets:32,39,300,150
+smoke/1_00012
+bounds:539,109,227,71
+offsets:31,39,300,150
+smoke/1_00013
+bounds:1644,334,230,72
+offsets:29,38,300,150
+smoke/1_00014
+bounds:1411,333,231,73
+offsets:28,38,300,150
+smoke/1_00015
+bounds:2,22,233,73
+offsets:26,38,300,150
+smoke/1_00016
+bounds:2,22,233,73
+offsets:26,38,300,150
+smoke/1_00017
+bounds:1177,333,232,73
+offsets:26,38,300,150
+smoke/1_00018
+bounds:237,2,232,63
+offsets:25,38,300,150
+smoke/1_00019
+bounds:1105,241,232,64
+offsets:24,37,300,150
+smoke/1_00020
+bounds:471,2,227,63
+offsets:24,37,300,150
+smoke/1_00021
+bounds:471,2,227,63
+offsets:24,37,300,150
+smoke/1_00022
+bounds:769,58,229,55
+offsets:23,37,300,150
+smoke/1_00023
+bounds:1347,80,228,56
+offsets:25,37,300,150
+smoke/1_00024
+bounds:877,186,224,51
+offsets:29,42,300,150
+smoke/1_00025
+bounds:1577,85,12,51
+offsets:32,43,300,150
