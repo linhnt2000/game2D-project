@@ -1,0 +1,131 @@
+votex.png
+size:428,1108
+filter:Linear,Linear
+pma:true
+Layer 18
+bounds:230,873,53,195
+offsets:1,1,56,197
+rotate:90
+Layer 20
+bounds:238,1051,54,188
+offsets:2,3,58,193
+rotate:90
+Layer 21
+bounds:309,189,51,163
+offsets:2,3,55,168
+Layer 23
+bounds:2,735,58,221
+offsets:3,3,63,226
+rotate:90
+Layer 24
+bounds:65,144,55,208
+offsets:1,1,57,211
+Layer 26
+bounds:230,751,65,192
+offsets:2,2,69,196
+rotate:90
+Layer 27
+bounds:179,176,63,176
+offsets:3,2,68,180
+Layer 28
+bounds:2,481,62,215
+offsets:2,2,66,219
+rotate:90
+Layer 29
+bounds:2,354,61,212
+offsets:2,3,65,217
+rotate:90
+Layer 30
+bounds:225,621,61,191
+offsets:2,2,64,195
+rotate:90
+Layer 31
+bounds:193,2,57,172
+offsets:2,2,62,176
+Layer 32
+bounds:2,610,63,216
+offsets:2,2,67,220
+rotate:90
+Layer 33
+bounds:220,552,67,203
+offsets:2,1,70,207
+rotate:90
+Layer 34
+bounds:219,354,64,189
+offsets:3,2,68,193
+rotate:90
+Layer 35
+bounds:2,1050,55,234
+offsets:2,2,59,238
+rotate:90
+Layer 36
+bounds:238,928,65,180
+offsets:1,1,69,183
+rotate:90
+base
+bounds:2,795,95,226
+offsets:10,12,114,259
+rotate:90
+base 1
+bounds:2,892,99,226
+offsets:8,12,114,259
+rotate:90
+port 2/Layer 18
+bounds:230,818,53,195
+offsets:1,1,56,197
+rotate:90
+port 2/Layer 20
+bounds:238,995,54,188
+offsets:2,3,58,193
+rotate:90
+port 2/Layer 21
+bounds:362,189,51,163
+offsets:2,3,55,168
+port 2/Layer 23
+bounds:2,675,58,221
+offsets:3,3,63,226
+rotate:90
+port 2/Layer 24
+bounds:122,144,55,208
+offsets:1,1,57,211
+port 2/Layer 26
+bounds:225,684,65,192
+offsets:2,2,69,196
+rotate:90
+port 2/Layer 27
+bounds:244,176,63,176
+offsets:3,2,68,180
+port 2/Layer 28
+bounds:2,417,62,215
+offsets:2,2,66,219
+rotate:90
+port 2/Layer 29
+bounds:2,140,61,212
+offsets:2,3,65,217
+port 2/Layer 30
+bounds:219,420,61,191
+offsets:2,2,64,195
+rotate:90
+port 2/Layer 31
+bounds:252,2,57,172
+offsets:2,2,62,176
+port 2/Layer 32
+bounds:2,545,63,216
+offsets:2,2,67,220
+rotate:90
+port 2/Layer 33
+bounds:220,483,67,203
+offsets:2,1,70,207
+rotate:90
+port 2/Layer 34
+bounds:2,7,64,189
+offsets:3,2,68,193
+rotate:90
+port 2/Layer 35
+bounds:2,993,55,234
+offsets:2,2,59,238
+rotate:90
+port 2/Layer 36
+bounds:2,73,65,180
+offsets:1,1,69,183
+rotate:90

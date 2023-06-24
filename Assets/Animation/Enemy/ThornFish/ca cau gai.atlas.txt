@@ -1,0 +1,22 @@
+ca cau gai.png
+size:268,164
+filter:Linear,Linear
+pma:true
+Layer 14
+bounds:232,74,31,31
+offsets:1,1,33,33
+body
+bounds:2,2,170,160
+eye_L
+bounds:174,3,52,50
+offsets:1,1,54,52
+rotate:90
+tail
+bounds:174,57,48,56
+offsets:1,1,50,58
+rotate:90
+wing_L
+bounds:174,107,60,55
+wing_R
+bounds:226,17,38,40
+rotate:90

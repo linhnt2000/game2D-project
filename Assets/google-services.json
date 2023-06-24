@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128435925981",
+    "project_id": "super-rob-s-world",
+    "storage_bucket": "super-rob-s-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128435925981:android:004483e2c61a2581977c34",
+        "android_client_info": {
+          "package_name": "com.sd.superrobsworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128435925981-vt3n9c9ch1ae3ir0n373padoiqhk65g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS7xL6WErJi-GVDEuvyN1PF3-cLIfvSFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128435925981-vt3n9c9ch1ae3ir0n373padoiqhk65g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
