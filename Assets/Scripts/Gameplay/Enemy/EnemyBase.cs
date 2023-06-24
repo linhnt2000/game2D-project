@@ -52,13 +52,13 @@ public class EnemyBase : MonoBehaviour
         {
             hurt = true;
             curHealth -= damage;
-            MasterAudio.PlaySound(Constants.Audio.SOUND_ENEMY_DIE);
+            MasterAudio.PlaySound(Constants.Audio.SOUND_ENEMY_DIE );
             if (curHealth <= 0)
             {
                 EnemyDie();
             }
             else
-                StartCoroutine(Helper.StartAction(() => hurt = false, 0.2f));
+                StartCoroutine(Helper.StartAction(() => hurt = false, 0.2f ));
         }
     }
 
