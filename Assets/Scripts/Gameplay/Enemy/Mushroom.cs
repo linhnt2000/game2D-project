@@ -43,7 +43,7 @@ public class Mushroom : EnemyBase
         if (style == MoveStyle.Suicide)
         {
             Vector2 ver = posVertical.position - posFoot.position;
-            RaycastHit2D verHit = Physics2D.Raycast(posFoot.position, ver, 0.65f, layer);
+            RaycastHit2D verHit = Physics2D.Raycast(posFoot.position, ver, 0.6f, layer);
             if (verHit.collider == null)
             {
                 rb.constraints = RigidbodyConstraints2D.FreezeRotation;
@@ -53,7 +53,7 @@ public class Mushroom : EnemyBase
         {
             Vector2 hor = posHorizontal.position - posFoot.position;
             Vector2 ver = posVertical.position - posFoot.position;
-            RaycastHit2D horHit = Physics2D.Raycast(posFoot.position, hor, 0.3f, layer);
+            RaycastHit2D horHit = Physics2D.Raycast(posFoot.position, hor, 0.35f, layer);
             RaycastHit2D verHit = Physics2D.Raycast(posFoot.position, ver, 1f, layer);
             Debug.DrawLine(posFoot.position, posHorizontal.position, Color.red);
             Debug.DrawLine(posFoot.position, posVertical.position, Color.red);
