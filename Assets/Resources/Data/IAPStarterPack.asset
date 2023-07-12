@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cbbe2b9ce6b98442a4aa6402d31f062, type: 3}
+  m_Name: IAPStarterPack
+  m_EditorClassIdentifier: 
+  items:
+  - type: 13
+    detail: 0
+    quantity: 10000
+    countable: 0
+    spine: {fileID: 0}
+    spriteUI: {fileID: 21300000, guid: 88aaa00438606274aa302ea847256a2c, type: 3}
+  - type: 5
+    detail: 0
+    quantity: 30
+    countable: 1
+    spine: {fileID: 0}
+    spriteUI: {fileID: 21300000, guid: 1764a4ee2d5b9c34da1723522d6ee205, type: 3}
+  - type: 3
+    detail: 0
+    quantity: 30
+    countable: 1
+    spine: {fileID: 0}
+    spriteUI: {fileID: 21300000, guid: 87b03bf37288d7f46b97f6f85781335c, type: 3}
